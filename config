@@ -1,0 +1,5 @@
+NAME=germDaemon
+USER=softioc
+PORT=7001
+HOST=detector
+
