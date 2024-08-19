@@ -1,5 +1,7 @@
+#
+# Ansible managed
+#
 NAME=germDaemon
-USER=softioc
-PORT=7001
-HOST=detector
-
+USER=softioc-hex
+PORT=4008
+HOST=xf27id1-det1

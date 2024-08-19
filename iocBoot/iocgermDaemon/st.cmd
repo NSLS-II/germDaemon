@@ -5,9 +5,9 @@
 
 < envPaths
 
-#< unique.hex
+< unique.hex
 #< unique.xpd
-< unique.lab
+#< unique.lab
 
 
 epicsEnvSet("NELM_MCA_GERM384", "1572864")
